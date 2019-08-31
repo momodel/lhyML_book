@@ -174,7 +174,7 @@
     not_numbered: true
     
 - title: 第8章 迁移学习
-  url: /02/features
+  url: /08/features
   not_numbered: true
   expand_sections: true
   sections:
