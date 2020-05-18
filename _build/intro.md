@@ -4,7 +4,7 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: https://github.com/jupyter/jupyter-book
+  url: https://momodel.cn/classroom/class?id=5d63dde21afd9461419f5ebf&type=video
   title: '课程链接'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
@@ -297,4 +297,4 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 如果有侵权行为，请联系我们。
 
-考虑编著们水平有限，资料中难免有错误或者解释不清之处，欢迎大家批评指正和进一步的补充。相关建议或者学习心得可以放在：
+考虑编著们水平有限，资料中难免有错误或者解释不清之处，欢迎大家批评指正和进一步的补充。
