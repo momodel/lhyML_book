@@ -4,14 +4,15 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: https://github.com/jupyter/jupyter-book
+  url: https://momodel.cn/classroom/class?id=5d63dde21afd9461419f5ebf&type=video
   title: '课程链接'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 ## 台大李宏毅教授机器学习课程指引
 
 **中文世界中最好的机器学习课程！**
-**李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻。关键一切都是中文的！**</br>
+**李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻。关键一切都是中文的！**
+</br>
 
 # **一、课程目录及主要内容：**
 
@@ -297,4 +298,4 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 如果有侵权行为，请联系我们。
 
-考虑编著们水平有限，资料中难免有错误或者解释不清之处，欢迎大家批评指正和进一步的补充。相关建议或者学习心得可以放在：
+考虑编著们水平有限，资料中难免有错误或者解释不清之处，欢迎大家批评指正和进一步的补充。
