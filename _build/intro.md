@@ -12,7 +12,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 **中文世界中最好的机器学习课程！**
 **李宏毅老师的机器学习和深度学习系列课程，是中文世界中最好！课程中有深入浅出的讲解和幽默生动的比喻。关键一切都是中文的！**
-</br>
+
 
 # **一、课程目录及主要内容：**
 
